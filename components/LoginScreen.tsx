@@ -29,7 +29,7 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin }) => {
         } as any}
         className="w-full max-w-md bg-white border-4 border-black p-12 rounded-[3rem] shadow-2xl text-center"
       >
-        <img src="https://i.postimg.cc/MZ4w91zf/imh-logo.png" alt="IMH Logo" className="h-24 mx-auto mb-8" />
+        <img src="https://www.montessorihouse.ba/wp-content/uploads/2018/10/logo-header.png" alt="IMH Logo" className="h-24 mx-auto mb-8" />
         <h1 className="text-2xl font-black uppercase tracking-widest mb-2">IMH Salary Moderator</h1>
         <p className="text-sm text-slate-500 font-bold uppercase tracking-[0.2em] mb-10">Protected Financial Environment</p>
         
