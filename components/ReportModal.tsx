@@ -55,7 +55,7 @@ export const ReportModal: React.FC<ReportModalProps> = ({
             {/* REPORT HEADER */}
             <div className="flex justify-between items-end border-b-8 border-black pb-8 mb-16">
                <div>
-                  <img src="https://i.postimg.cc/MZ4w91zf/imh-logo.png" alt="IMH" className="h-24 mb-6" />
+                  <img src="https://www.montessorihouse.ba/wp-content/uploads/2018/10/logo-header.png" />
                   <div className="text-4xl font-black uppercase tracking-tighter">Strategija 2026</div>
                   <div className="text-sm font-bold uppercase tracking-[0.4em] text-slate-500 mt-2">Službeni Dokument Revizije</div>
                </div>
