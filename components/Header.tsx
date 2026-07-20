@@ -19,7 +19,7 @@ export const Header: React.FC<HeaderProps> = ({
   return (
     <header className="w-full mb-12 flex flex-col 2xl:flex-row items-center justify-between gap-8 relative z-10 border-b-8 border-black pb-10 no-print">
       <div className="flex items-center gap-8">
-        <img src="https://i.postimg.cc/MZ4w91zf/imh-logo.png" alt="IMH Logo" className="h-[80px] object-contain" />
+        <img src="https://www.montessorihouse.ba/wp-content/uploads/2018/10/logo-header.png" alt="IMH Logo" className="h-[80px] object-contain" />
         <div className="h-16 w-2 bg-black hidden md:block"></div>
         <div>
           <h1 className="text-4xl xl:text-5xl font-serif font-black tracking-tighter text-black uppercase flex items-center gap-4">
